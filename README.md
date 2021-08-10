@@ -8,3 +8,4 @@ Task_3 - Предсказание оттока
 
 Task_4 -  SQL, конверсия
 
+Task_4 -  NLP models
