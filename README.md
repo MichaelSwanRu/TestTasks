@@ -12,4 +12,4 @@ Task_5 -  NLP models
 
 Task_6 -  NLP model LR
 
-Task_7 - SQL
+Task_7 - SQL, Python
