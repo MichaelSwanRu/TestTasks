@@ -13,3 +13,5 @@ Task_5 -  NLP models
 Task_6 -  NLP model LR
 
 Task_7 - SQL, Python
+
+Пример чтения и записи таблиц в различные форматы файлов и базу данных SQLite3
