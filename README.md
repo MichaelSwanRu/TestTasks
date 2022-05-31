@@ -14,4 +14,8 @@ Task_6 -  NLP model LR
 
 Task_7 - SQL, Python
 
+Task_8 - KNeighborsClassifier
+
+Task_9 - Telecom
+
 Работа с файлами и БД - Пример чтения и записи таблиц в различные форматы файлов и базу данных SQLite3
